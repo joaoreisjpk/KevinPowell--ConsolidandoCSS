@@ -1,5 +1,25 @@
-# 21Days-KevinPowell
+https://joaoreisjpk.github.io/KevinPowell--ConsolidandoCSS/
 
-Nesse desafio de 21 dias, criei do zero uma página responsiva com dois breakpoints diferentes, onde o maior objetivo de tal era treinar o CSS utilizando principalmente ferramentas da Flex-Box.
+### Kevin-Powell CSS Challenge
 
-Começando por mobile view, o primeiro breakpoint é aos 700px e o outro à 1000px, gostaria de reinterar que todo o CSS e HTML foram escritos por mim, sendo entregue apenas o design, fontes e cores da página.
+Desafio do curso de 21 Days With Kevin Powell https://courses.kevinpowell.co/conquering-responsive-layouts
+
+[Link para o Site](https://joaoreisjpk.github.io/KevinPowell--ConsolidandoCSS/)
+
+![plot](./img/preview.png)
+
+# Habilidades desenvolvidas.
+
+-Aprender como fazer um site completamente responsivo </br>
+
+-Aprender todas as ferramentas do Flex-Box como: </br>
+
+  -Justify-Content/ Align-Self/ Align-Itens/ Align-Content </br>
+
+  -Flex-Wrap/ Flex-Flow/ Flex-Shrink/ Flex-Grow/ Flex-Direction  </br>
+
+  -Gap/ Order/ Flex-Basis </br>
+
+# O que foi desenvolvido.
+
+Um site simples, porém completamente responsivo, cujo layould retrata uma revista;
